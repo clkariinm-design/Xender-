@@ -1,0 +1,6 @@
+{
+  "name": "AirShare",
+  "description": "High-speed offline peer-to-peer file sharing over local Wi-Fi and hotspot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

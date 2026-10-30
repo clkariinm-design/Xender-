@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AirShare</string>
+    <string name="send_files">Send Files</string>
+    <string name="receive_files">Receive Files</string>
+    <string name="send_files_desc">Select and share photos, videos, docs, or apps</string>
+    <string name="receive_files_desc">Wait for incoming transfers via local Wi-Fi</string>
+    <string name="permission_storage_title">Storage Access Required</string>
+    <string name="permission_storage_desc">AirShare needs storage access to browse and share your media, documents, and files offline.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_docs">Docs</string>
+    <string name="tab_apps">Apps</string>
+    <string name="search_files_placeholder">Search files…</string>
+    <string name="no_files_found">No files found</string>
+    <string name="receiver_ready_title">Ready to Receive</string>
+    <string name="receiver_waiting_desc">Scan this QR code from the sender device or connect to the IP address below.</string>
+    <string name="connect_manually">Connect Manually</string>
+    <string name="enter_receiver_ip">Receiver IP Address</string>
+    <string name="transfer_in_progress">Transferring Files</string>
+    <string name="transfer_completed">Transfer Completed!</string>
+    <string name="transfer_failed">Transfer Failed</string>
+</resources>
